@@ -1,8 +1,8 @@
 # challenge-data-science
 <p> 
-# 1.-Propósito del análisis
+## 1.-Propósito del análisis
  
- El propósito del análisis realizado es para saber cual tienda es la que menos factura, por lo tanto se realizó el analisis junto con graficos para determinar cual tienda es la que debemos vender para poder poner otro negacio mas redituable.
+El propósito del análisis realizado es para saber cual tienda es la que menos factura, por lo tanto se realizó el analisis junto con graficos para determinar cual tienda es la que debemos vender para poder poner otro negacio mas redituable.
 
 2.- Estructura del proyecto:
 #### Analisis de Datos
