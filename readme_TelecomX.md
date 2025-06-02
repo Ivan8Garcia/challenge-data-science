@@ -1,6 +1,7 @@
 Descripción del Proyecto Telecom X
 
-Propósito del Análisis:
+**Propósito del Análisis:**
+
 El objetivo principal de este proyecto es realizar un Análisis Exploratorio de Datos (AED) sobre un dataset de clientes de una empresa de telecomunicaciones. El propósito es identificar los factores clave que contribuyen a la "evasión" o "Churn" de clientes. Comprender las características y el comportamiento de los clientes que se dan de baja es crucial para desarrollar estrategias efectivas de retención de clientes y minimizar la pérdida de ingresos. El análisis busca descubrir patrones, relaciones y variables significativas que influyen en la decisión de un cliente de abandonar el servicio.
 
 Estructura del Proyecto y Organización de los Archivos:
